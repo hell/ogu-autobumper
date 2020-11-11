@@ -1,3 +1,2 @@
 class Config:
     cookie = ""
-    
