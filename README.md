@@ -21,5 +21,3 @@ Installation:
 pip install requests
 pip install bs4
 ```
-
-![example](https://i.imgur.com/4ogKLbV.png)
