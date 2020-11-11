@@ -22,4 +22,5 @@ pip install requests
 pip install bs4
 ```
 3. Put your OGU cookie in the config file. 
+https://youtu.be/KiI4Wh_vCIg
 4. Run the autobumper. 
